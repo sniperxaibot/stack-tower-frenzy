@@ -1,2 +1,6 @@
-# stack-tower-frenzy
-Stack Tower Frenzy - Hyper Casual Stacking Game built with Flutter + Flame. Indie mobile game by Romanian developer.
+# Stack Tower Frenzy
+
+Hyper-casual stacking game made with Flutter and Flame.
+
+## How to play
+Tap to drop the swinging block and build the highest tower!
